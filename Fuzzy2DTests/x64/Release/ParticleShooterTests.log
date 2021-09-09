@@ -1,0 +1,60 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1947,5): warning : The referenced project '..\Pokemon\Pokemon.vcxproj' does not exist.
+  pch.cpp
+  CommonTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(7,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.cpp(51,45): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.cpp(99,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.cpp(99,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CommonTests.cpp(96,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  SeparatingAxisCollisionTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(7,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(123,50): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\PolygonCollider.cpp(67,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\PolygonCollider.cpp(67,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\RigidBody.cpp(39,47): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\RigidBody.cpp(65,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\RigidBody.cpp(71,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\RigidBody.cpp(93,44): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\RigidBody.cpp(115,50): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(21,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(21,1): error C2660: 'std::shared_ptr<PolygonCollider>::reset': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\memory(1830,10): message : see declaration of 'std::shared_ptr<PolygonCollider>::reset'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(24,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(24,1): error C2660: 'std::shared_ptr<PolygonCollider>::reset': function does not take 1 arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\memory(1830,10): message : see declaration of 'std::shared_ptr<PolygonCollider>::reset'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(29,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(38,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(47,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(56,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(65,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(74,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(84,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(94,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(105,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(115,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(124,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(134,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(144,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(155,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(167,1): error C2661: 'PolygonCollider::PolygonCollider': no overloaded function takes 2 arguments
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(171,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  TransformTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(7,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(46,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(47,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(67,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(67,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(105,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(106,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(124,21): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(23,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(59,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(83,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(107,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(131,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(155,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(167,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(176,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(198,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(220,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(242,1): warning C4305: 'argument': truncation from 'double' to 'float'

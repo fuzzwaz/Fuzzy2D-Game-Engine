@@ -1,0 +1,3 @@
+C:\Users\fuzzw\Documents\GitKraken\Pokemon\x64\Debug\Pokemon.exe
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\x64\Debug\ParticleShooter.exe
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\x64\Debug\ParticleShooter.exe

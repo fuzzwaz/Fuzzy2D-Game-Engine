@@ -1,0 +1,89 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1967,5): warning : The referenced project '..\Pokemon\Pokemon.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ParticleShooterTests.vcxproj, PokemonTests.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  CollisionManagerTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionManagerTests.cpp(19,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionManagerTests.cpp(23,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionManagerTests.cpp(60,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+  CollisionResponseTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\CollisionResponse.cpp(19,101): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\CollisionResponse.cpp(19,140): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\CollisionResponse.cpp(39,98): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionResponseTests.cpp(22,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionResponseTests.cpp(27,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionResponseTests.cpp(60,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionResponseTests.cpp(79,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionResponseTests.cpp(98,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionResponseTests.cpp(103,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionResponseTests.cpp(117,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\CollisionResponseTests.cpp(122,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+  PolygonTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(26,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(27,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(28,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(29,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(40,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(41,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(42,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(43,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(88,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(89,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(90,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(91,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(101,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(102,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(103,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\PolygonTests.cpp(104,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+  RigidBodyTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SeparatingAxisCollisionTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(100,45): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\SeparatingAxisCollision.cpp(130,50): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\SeparatingAxisCollisionTests.cpp(251,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+  TransformTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(45,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(46,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(66,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(66,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(104,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(105,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Transform.cpp(123,20): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Vector2.cpp(60,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\RigidBody.cpp(66,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\RigidBody.cpp(72,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.cpp(28,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Common.cpp(28,17): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Polygon.cpp(71,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Polygon.cpp(71,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Polygon.cpp(112,22): warning C4305: 'initializing': truncation from 'int' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\Polygon.cpp(112,38): warning C4305: 'initializing': truncation from 'int' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(26,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(62,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(86,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(110,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(134,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(158,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(170,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(179,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(201,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(223,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(245,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(298,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(334,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(358,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(382,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(406,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(430,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(442,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(451,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(473,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(495,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooterTests\TransformTests.cpp(517,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Generating Code...
+     Creating library C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\x64\Debug\ParticleShooterTests.lib and object C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\x64\Debug\ParticleShooterTests.exp
+  ParticleShooterTests.vcxproj -> C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\ParticleShooter\x64\Debug\ParticleShooterTests.dll

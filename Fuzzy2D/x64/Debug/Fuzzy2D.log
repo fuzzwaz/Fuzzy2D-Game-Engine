@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ParticleShooter.vcxproj, Pokemon.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DemoBall.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Fuzzy2D\ColliderResources.h(36,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Fuzzy2D\ColliderResources.h(37,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Fuzzy2D\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Fuzzy2D\DemoBall.cpp(29,44): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Fuzzy2D.vcxproj -> C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Fuzzy2D\x64\Debug\Fuzzy2D.exe

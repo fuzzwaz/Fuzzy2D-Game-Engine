@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PokemonTests.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Pokemon.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  CollisionDetectorTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\CollisionDetector.cpp(23,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\CollisionDetector.cpp(24,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\CollisionDetector.cpp(25,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\CollisionDetector.cpp(26,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\PokemonTests\CollisionDetectorTests.cpp(39,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\PokemonTests\CollisionDetectorTests.cpp(55,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  CommonTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\Common.cpp(52,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\Common.cpp(52,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\PokemonTests\CommonTests.cpp(93,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  CollisionColliderTests.cpp
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\PokemonTests\CollisionColliderTests.cpp(18,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\PokemonTests\CollisionColliderTests.cpp(29,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\PokemonTests\CollisionColliderTests.cpp(40,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\PokemonTests\CollisionColliderTests.cpp(51,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\PokemonTests\CollisionColliderTests.cpp(84,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\PokemonTests\CollisionColliderTests.cpp(106,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+     Creating library C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\x64\Debug\ParticleShooterTests.lib and object C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\x64\Debug\ParticleShooterTests.exp
+  PokemonTests.vcxproj -> C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Pokemon\x64\Debug\ParticleShooterTests.dll
