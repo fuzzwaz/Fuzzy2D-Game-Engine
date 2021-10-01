@@ -1,1 +1,2 @@
 C:\Users\fuzzw\Documents\GitKraken\PokemonRemake\Fuzzy2D\x64\Debug\Fuzzy2D.exe
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\x64\Debug\Fuzzy2D.exe
