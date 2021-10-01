@@ -1,9 +1,9 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../Fuzzy2D/Vector2.h"
-#include "../Fuzzy2D/RigidBody.h"
-#include "../Fuzzy2D/Collider.h"
-#include "../Fuzzy2D/CollisionManager.h"
+#include "../Fuzzy2D/Common/Vector2.h"
+#include "../Fuzzy2D/Physics/RigidBody.h"
+#include "../Fuzzy2D/Physics/Collider.h"
+#include "../Fuzzy2D/Physics/CollisionManager.h"
 #include "../Fuzzy2D/CollisionManager.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;

@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../Fuzzy2D/RigidBody.h"
-#include "../Fuzzy2D/Common.h"
+#include "../Fuzzy2D/Physics/RigidBody.h"
+#include "../Fuzzy2D/Common/Common.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 

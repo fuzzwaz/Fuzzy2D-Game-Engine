@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../Fuzzy2D/Polygon.h"
-#include "../Fuzzy2D/Common.h"
+#include "../Fuzzy2D/Physics/Polygon.h"
+#include "../Fuzzy2D/Common/Common.h"
 
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;

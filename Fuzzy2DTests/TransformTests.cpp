@@ -1,6 +1,6 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../Fuzzy2D/Transform.h"
+#include "../Fuzzy2D/Physics/Transform.h"
 #include "../Fuzzy2D/Transform.cpp"
 #include "../Fuzzy2D/Vector2.cpp"
 #include "../Fuzzy2D/RigidBody.cpp"
