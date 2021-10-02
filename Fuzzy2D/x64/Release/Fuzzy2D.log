@@ -1,56 +1,56 @@
 ﻿  AnimatedSingleTextureGraphicsController.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   Animation.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   Animator.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Animator.cpp(123,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   CollisionResponse.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\CollisionResponse.cpp(19,101): warning C4227: anachronism used: qualifiers on reference are ignored
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\CollisionResponse.cpp(19,140): warning C4227: anachronism used: qualifiers on reference are ignored
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\CollisionResponse.cpp(39,98): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
   Common.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.cpp(28,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.cpp(28,17): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
   ErrorHandler.cpp
   GameManager.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\GameManager.h(25,18): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\UserInterfaceManager.h(20): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\InputState.h(23,19): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\InputState.h(23): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Core\GameManager.h(25,18): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\UI\UserInterfaceManager.h(20): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Input\InputState.h(23,19): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Input\InputState.h(23): message : see declaration of 'InputState'
   GameObject.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   GameObjectRegistryLocator.cpp
   GraphicObject.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   Item.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   ItemSpawner.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   Level.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   LevelManager.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   MultiTextureGraphicsController.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   NullRigidBody.cpp
   ObserverController.cpp
   Collider.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   PCInputController.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\PCInputController.cpp(101,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\PCInputController.cpp(102,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Polygon.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Polygon.cpp(71,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Polygon.cpp(71,22): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Polygon.cpp(75,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
@@ -62,7 +62,7 @@ C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Polygon.cpp(112,38):
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Rectangle.cpp(12,50): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Rectangle.cpp(12,22): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
   SeparatingAxisCollision.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\SeparatingAxisCollision.cpp(100,45): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\SeparatingAxisCollision.cpp(130,50): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const float', possible loss of data
   Sound.cpp
@@ -71,7 +71,7 @@ C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\SoundManager.cpp(64,
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\SoundManager.cpp(68,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   TimedDestructionController.cpp
   Transform.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Transform.cpp(45,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Transform.cpp(46,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Transform.cpp(66,46): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
@@ -80,17 +80,17 @@ C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Transform.cpp(104,44
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Transform.cpp(105,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Transform.cpp(123,20): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
   InputManager.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   CollisionManager.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
   main.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\GameManager.h(25,18): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\UserInterfaceManager.h(20): message : see declaration of 'InputState'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\InputState.h(23,19): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\InputState.h(23): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Core\GameManager.h(25,18): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\UI\UserInterfaceManager.h(20): message : see declaration of 'InputState'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Input\InputState.h(23,19): warning C4099: 'InputState': type name first seen using 'class' now seen using 'struct'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Input\InputState.h(23): message : see declaration of 'InputState'
   Renderer.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Renderer.cpp(146,63): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Renderer.cpp(146,51): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Renderer.cpp(152,98): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
@@ -104,11 +104,11 @@ C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Renderer.cpp(161,50)
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Renderer.cpp(207,40): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Renderer.cpp(208,40): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
   RigidBody.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\RigidBody.cpp(66,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\RigidBody.cpp(72,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   ScrollingCamera.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\ScrollingCamera.cpp(36,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\ScrollingCamera.cpp(36,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\ScrollingCamera.cpp(54,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
@@ -123,7 +123,7 @@ C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\ScrollingCamera.cpp(
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\ScrollingCamera.cpp(80,24): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
   PropertyController.cpp
   Texture.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Texture.cpp(44,77): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Texture.cpp(44,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Texture.cpp(45,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
@@ -138,10 +138,10 @@ C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Texture.cpp(74,17): 
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Timer.cpp(25,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Transition.cpp
   UserInterfaceManager.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Graphics\Animation.h(41,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   Vector2.cpp
-C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Common\Common.h(16,62): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\fuzzw\Documents\GitHub\Fuzzy2D-Game-Engine\Fuzzy2D\Vector2.cpp(60,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Generating code
   Previous IPDB not found, fall back to full compilation.
